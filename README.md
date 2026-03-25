@@ -32,7 +32,9 @@
   }
 
 ...
-once you have added your db config as listed above ,go tothe src folder from your terrminal and execute `npx sequelize db:create`
+once you have added your db config as listed above ,go tothe src folder from your terrminal and execute `npx sequelize db:create` and then execute
+
+`npx sequelize db:migrate` 
     
 ..
 

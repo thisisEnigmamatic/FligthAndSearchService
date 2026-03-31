@@ -89,7 +89,7 @@ const update= async(req,res)=>{
 }
 }
 
-modeule.exports={
+module.exports={
     create,
     destroy,
     get,
